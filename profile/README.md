@@ -9,6 +9,10 @@
 - created: 2025-11-05
 - メーリングリストが存在しますが、プライバシー上の配慮により公開していません。
 
+## 情報提供
+
+[ASK文書](https://github.com/code4chiyoda/ASK-2T3C)をご覧ください。
+
 ---
 
 任意団体 Code for Chiyoda
