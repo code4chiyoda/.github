@@ -1,4 +1,4 @@
-# 🌸 Code for Chiyoda
+# Code for Chiyoda 🌸
 
 東京都千代田区の、当事者の合意にもとづく技術提供に主軸を置く自助会です。
 
