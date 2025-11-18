@@ -9,7 +9,7 @@
 
 ## 🎉 活動したい場合
 
-[ASK-2T3C-9](https://github.com/code4chiyoda/ASK-2T3C/blob/main/9.md)を参考に、ワーキンググループを作ることができます。
+[グループで仕事をするにあたって必要なこと](https://github.com/code4chiyoda/ASK-2T3C/blob/main/9.md)を参考に、ワーキンググループを作ることができます。
 
 作業をしたい人へ: 以下の道すじに沿ってください。
 
