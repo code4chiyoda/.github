@@ -43,6 +43,7 @@ send_mail[趣旨をまとめて、メールをください]
 - 2026年4月8日に作成
 - Code for Chiyoda の最小構成を揃える準備会です。
 - メーリングリスト: https://groups.google.com/u/2/g/code-for-chiyoda/c/B7oFlwAr7ao
+  - Google アカウントが必要です。[Google Groups](https://groups.google.com/g/code-for-chiyoda) の「グループへの参加をリクエスト」からご連絡ください。
 - メンバー募集中:
   - Nawashiro
 
