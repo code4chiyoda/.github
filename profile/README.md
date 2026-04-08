@@ -1,17 +1,17 @@
 # Code for Chiyoda 🌸
 
-東京都千代田区の、技術提供に主軸を置く自助会です。
+東京都千代田区の、市民が共有資源を持ち寄り維持するための任意団体です。
 
-## 👋 方針
+こんなものを想定しています。
 
-- 実用主義: 大まかな合意とすぐに動く実装が最重要です。いつか世界を変える政策よりも、いま危機にある自分らをただちに救う方法に興味があります。
-- 文書化: その余裕があれば、文書を残します。いつか困難に直面する子どもたちが、迷ってしまわないように。
+- 関連する調査資料
+- 整理・検証されたデータセット
+- ソフトウェアおよびソースコード
+- 知識の交換と共有のための会合
 
 ## 🎉 活動したい場合
 
-[グループで仕事をするにあたって必要なこと](https://github.com/code4chiyoda/ASK-2T3C/blob/main/9.md)を参考に、ワーキンググループを作ることができます。
-
-作業をしたい人へ: 以下の道すじに沿ってください。
+以下の道すじに沿ってください。
 
 - 既存のワーキンググループに参加したい場合: メーリングリストに参加してください。
 - ワーキンググループを作りたい場合:
@@ -38,7 +38,15 @@ send_mail[趣旨をまとめて、メールをください]
 
 ## 🍟 現在有効なワーキンググループ
 
-千代田区営住宅自殺防止・危機介入に関するワーキンググループ
+### Code for Chiyoda 準備 WG
+
+- 2026年4月8日に作成
+- Code for Chiyoda の最小構成を揃える準備会です。
+- メーリングリスト: https://groups.google.com/u/2/g/code-for-chiyoda/c/B7oFlwAr7ao
+- メンバー募集中:
+  - Nawashiro
+
+### 千代田区営住宅自殺防止・危機介入に関するワーキンググループ
 
 - 2025年11月5日に作成
 - メーリングリストが存在しますが、プライバシー上の配慮により公開していません。
@@ -49,19 +57,10 @@ send_mail[趣旨をまとめて、メールをください]
 
 ## 🗒️ 情報提供
 
-[ASK文書](https://github.com/code4chiyoda/ASK-2T3C)をご覧ください。
+[b614 文書](https://github.com/code4chiyoda/b614) をご覧ください。
 
 ---
 
 任意団体 Code for Chiyoda
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ライセンス: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
