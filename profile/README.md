@@ -1,4 +1,4 @@
-# Code for Chiyoda 🌸
+# Code for Chiyoda
 
 東京都千代田区の、市民が共有資源を持ち寄り維持するための任意団体です。
 
@@ -11,30 +11,19 @@
 
 ## 🎉 活動したい場合
 
-以下の道すじに沿ってください。
+### 規範
 
-- 既存のワーキンググループに参加したい場合: メーリングリストに参加してください。
-- ワーキンググループを作りたい場合:
-  - 私はGithubの使い方を知っています: メーリングリストができたら、本READMEにワーキンググループを書き足して、プルリクエストをください。
-  - 私はGithubを使ったことがありません: 趣旨をまとめて、`rsm4905dc[a]mozmail.com`（`[a]`を`@`に置き換えてください）までご連絡ください。
+[7894 すべてのコミュニティ参加者の規範](https://github.com/code4chiyoda/b614/blob/main/7894.md)を守ってください。
 
-```mermaid
-graph TD
-c4c_join --> if_wg
-if_wg -->|はい| wg_join
-if_wg -->|いいえ| wg_create
-wg_create --> if_github
-if_github -->|はい| create_pr
-if_github -->|いいえ| send_mail
+### 話し合いに参加したい
 
-c4c_join[作業がしたい]
-if_wg{すでにグループがある}
-wg_join[メーリングリストに参加してください]
-wg_create[グループを作る]
-if_github{Githubの使いかたがわかる}
-create_pr[グループを書き足して、プルリクエストをください]
-send_mail[趣旨をまとめて、メールをください]
-```
+- [メーリングリスト](https://groups.google.com/g/code-for-chiyoda)に参加してください。
+- 基本的に勝手にやって OK です。
+- よくわからなければ `rsm4905dc[a]mozmail.com`（`[a]`を`@`に置き換えてください）まで参加したい旨ご一報ください。迷惑メール防止のための手続きなので、自己紹介など簡単に書いてくれれば OK です。
+
+### コントリビュートしたい
+
+issue を立てたり PR を送ったりしてくれると助かります。一般的なオープンソース活動です。
 
 ## 🍟 現在有効なワーキンググループ
 
@@ -42,9 +31,8 @@ send_mail[趣旨をまとめて、メールをください]
 
 - 2026年4月8日に作成
 - Code for Chiyoda の最小構成を揃える準備会です。
-- メーリングリスト: https://groups.google.com/u/2/g/code-for-chiyoda/c/B7oFlwAr7ao
-  - Google アカウントが必要です。[Google Groups](https://groups.google.com/g/code-for-chiyoda) の「グループへの参加をリクエスト」からご連絡ください。
-- メンバー募集中:
+- [メーリングリストのスレッド](https://groups.google.com/u/2/g/code-for-chiyoda/c/B7oFlwAr7ao)
+- メンバー:
   - Nawashiro
 
 ### 千代田区営住宅自殺防止・危機介入に関するワーキンググループ
@@ -52,8 +40,8 @@ send_mail[趣旨をまとめて、メールをください]
 - 2025年11月5日に作成
 - メーリングリストが存在しますが、プライバシー上の配慮により公開していません。
 - メンバー:
-  - A（居住者）
-  - B（居住者）
+  - Reaction2154（居住者）
+  - Blinking3144（居住者）
   - 矢崎 愛（看護師 ソフィアメディ株式会社）
 
 ## 🗒️ 情報提供
